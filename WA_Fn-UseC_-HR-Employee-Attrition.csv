@@ -1,0 +1,1471 @@
+﻿EmployeeNumber,Country
+1,France
+2,United States of America
+4,Germany
+5,France
+7,Germany
+8,United States of America
+10,United States of America
+11,United States of America
+12,United States of America
+13,France
+14,Germany
+15,Mexico
+16,Germany
+18,Germany
+19,United States of America
+20,France
+21,Canada
+22,Mexico
+23,Mexico
+24,Germany
+26,United States of America
+27,Canada
+28,Mexico
+30,Mexico
+31,Germany
+32,Germany
+33,Canada
+35,Canada
+36,Germany
+38,France
+39,Mexico
+40,United States of America
+41,France
+42,France
+45,Canada
+46,Canada
+47,France
+49,Germany
+51,Canada
+52,United States of America
+53,United States of America
+54,Canada
+55,United States of America
+56,Germany
+57,Mexico
+58,Germany
+60,Germany
+61,Mexico
+62,Mexico
+63,United States of America
+64,Canada
+65,Germany
+68,Mexico
+70,Mexico
+72,Canada
+73,France
+74,United States of America
+75,Canada
+76,United States of America
+77,Canada
+78,Mexico
+79,Germany
+80,Canada
+81,France
+83,France
+84,United States of America
+85,Germany
+86,Germany
+88,Mexico
+90,France
+91,Mexico
+94,Mexico
+95,Mexico
+96,United States of America
+97,France
+98,Canada
+100,United States of America
+101,Canada
+102,Canada
+103,France
+104,Mexico
+105,Germany
+106,France
+107,United States of America
+110,Canada
+112,United States of America
+113,France
+116,Canada
+117,United States of America
+118,France
+119,Mexico
+120,Mexico
+121,France
+124,Mexico
+125,Canada
+126,Germany
+128,France
+129,Germany
+131,Mexico
+132,Germany
+133,United States of America
+134,Mexico
+137,United States of America
+138,Canada
+139,United States of America
+140,France
+141,Germany
+142,Mexico
+143,Mexico
+144,France
+145,Canada
+147,Canada
+148,Germany
+150,France
+151,Canada
+152,France
+153,Germany
+154,Germany
+155,United States of America
+158,Canada
+159,Canada
+160,Canada
+161,Germany
+162,United States of America
+163,France
+164,Germany
+165,France
+167,United States of America
+169,Germany
+170,Mexico
+171,United States of America
+174,France
+175,United States of America
+176,Canada
+177,Mexico
+178,Canada
+179,United States of America
+182,United States of America
+183,Germany
+184,Mexico
+190,Canada
+192,Mexico
+193,United States of America
+194,France
+195,France
+197,Mexico
+198,France
+199,Mexico
+200,Canada
+201,Mexico
+202,Germany
+204,Canada
+205,Germany
+206,Mexico
+207,United States of America
+208,United States of America
+211,France
+214,France
+215,Canada
+216,Germany
+217,Germany
+218,France
+221,Canada
+223,Mexico
+224,Mexico
+226,Canada
+227,Mexico
+228,Canada
+230,France
+231,United States of America
+233,Canada
+235,France
+238,Germany
+239,Mexico
+240,United States of America
+241,United States of America
+242,Germany
+243,Mexico
+244,France
+245,Canada
+246,United States of America
+247,Germany
+248,Canada
+249,Mexico
+250,France
+252,Germany
+253,Germany
+254,Germany
+256,Canada
+258,France
+259,Germany
+260,Mexico
+261,Canada
+262,Mexico
+264,Germany
+267,Canada
+269,United States of America
+270,Mexico
+271,United States of America
+273,France
+274,Canada
+275,United States of America
+277,United States of America
+281,United States of America
+282,United States of America
+283,Mexico
+284,Mexico
+286,Germany
+287,France
+288,France
+291,Germany
+292,France
+293,Germany
+296,Mexico
+297,Canada
+298,Germany
+299,Canada
+300,Germany
+302,Mexico
+303,Germany
+304,France
+305,United States of America
+306,Mexico
+307,Germany
+308,Mexico
+309,Mexico
+311,Germany
+312,France
+314,United States of America
+315,France
+316,Mexico
+319,France
+321,France
+323,France
+325,Germany
+327,Canada
+328,United States of America
+329,France
+330,Canada
+331,Germany
+332,France
+333,Canada
+334,Germany
+335,Canada
+336,France
+337,France
+338,Canada
+339,France
+340,Canada
+341,United States of America
+342,Germany
+343,United States of America
+346,United States of America
+347,United States of America
+349,France
+350,Germany
+351,Germany
+352,Mexico
+353,United States of America
+355,France
+359,Mexico
+361,Canada
+362,Mexico
+363,France
+364,Mexico
+366,United States of America
+367,United States of America
+369,Mexico
+372,Mexico
+373,Canada
+374,France
+376,United States of America
+377,Canada
+378,Germany
+379,Canada
+380,Canada
+381,Mexico
+382,Canada
+384,Mexico
+385,Mexico
+386,Canada
+387,Mexico
+388,Canada
+389,Germany
+390,Germany
+391,Mexico
+392,France
+393,Mexico
+394,Mexico
+395,United States of America
+396,Canada
+397,United States of America
+399,Canada
+401,Canada
+403,Germany
+404,France
+405,France
+406,France
+407,United States of America
+408,United States of America
+410,United States of America
+411,France
+412,Mexico
+416,Germany
+417,Germany
+419,United States of America
+420,France
+421,Canada
+422,France
+423,Germany
+424,United States of America
+425,Mexico
+426,Canada
+428,Germany
+429,Mexico
+430,France
+431,Canada
+433,Canada
+434,Canada
+436,United States of America
+437,United States of America
+438,France
+439,Mexico
+440,France
+441,Canada
+442,France
+444,Germany
+445,Germany
+446,United States of America
+447,Canada
+448,Germany
+449,France
+450,Germany
+451,Mexico
+452,Mexico
+453,France
+454,Canada
+455,Germany
+456,Germany
+458,United States of America
+460,United States of America
+461,France
+462,Canada
+463,Canada
+464,United States of America
+465,United States of America
+466,Mexico
+467,United States of America
+468,Mexico
+469,Germany
+470,Canada
+471,Mexico
+473,Canada
+474,France
+475,United States of America
+476,France
+477,Mexico
+478,United States of America
+479,United States of America
+481,United States of America
+482,France
+483,Canada
+484,Canada
+485,United States of America
+486,France
+487,Canada
+488,United States of America
+491,France
+492,Germany
+493,France
+494,France
+495,Canada
+496,United States of America
+497,United States of America
+498,Germany
+499,United States of America
+500,France
+501,France
+502,Canada
+505,France
+507,Germany
+508,France
+510,United States of America
+511,France
+513,Germany
+514,Canada
+515,Mexico
+516,Germany
+517,Canada
+518,Mexico
+520,Germany
+521,Germany
+522,Germany
+523,Mexico
+524,United States of America
+525,Germany
+526,Germany
+527,Germany
+529,Mexico
+530,Germany
+531,Mexico
+532,Mexico
+533,Mexico
+534,Mexico
+536,United States of America
+538,Canada
+543,France
+544,Mexico
+546,France
+547,Germany
+548,United States of America
+549,United States of America
+550,Mexico
+551,Germany
+554,United States of America
+555,France
+556,Mexico
+558,France
+560,Germany
+562,France
+564,France
+565,Canada
+566,Mexico
+567,Canada
+568,Canada
+569,France
+571,Canada
+573,Mexico
+574,France
+575,Germany
+577,Canada
+578,United States of America
+579,United States of America
+580,Mexico
+581,Mexico
+582,Mexico
+584,Mexico
+585,France
+586,Germany
+587,Mexico
+590,Mexico
+591,Mexico
+592,Mexico
+593,Germany
+595,United States of America
+597,Germany
+599,United States of America
+600,Germany
+601,Canada
+602,Canada
+604,Mexico
+605,France
+606,Canada
+608,Canada
+611,Germany
+612,Germany
+613,Germany
+614,Canada
+615,United States of America
+616,France
+618,Mexico
+620,Canada
+621,Canada
+622,United States of America
+623,France
+624,Canada
+625,Canada
+626,United States of America
+630,France
+631,Germany
+632,Canada
+634,Mexico
+635,Mexico
+638,Canada
+639,United States of America
+641,Germany
+643,Germany
+644,United States of America
+645,Mexico
+647,United States of America
+648,France
+649,Canada
+650,Mexico
+652,France
+653,Germany
+655,Germany
+656,Germany
+657,United States of America
+659,Canada
+661,France
+662,France
+663,Mexico
+664,Canada
+665,United States of America
+666,Canada
+667,United States of America
+669,Germany
+671,Germany
+675,Germany
+677,Mexico
+679,France
+680,Mexico
+682,Mexico
+683,Canada
+684,Canada
+686,United States of America
+689,United States of America
+690,Canada
+691,France
+692,Canada
+698,United States of America
+699,Mexico
+700,Germany
+701,United States of America
+702,United States of America
+704,France
+705,United States of America
+707,France
+709,France
+710,Germany
+712,Canada
+714,United States of America
+715,Germany
+716,France
+717,Mexico
+720,France
+721,France
+722,Germany
+723,Mexico
+724,Canada
+725,Canada
+727,United States of America
+728,Canada
+729,France
+730,Mexico
+731,Germany
+732,France
+733,United States of America
+734,United States of America
+738,Germany
+741,Canada
+742,United States of America
+743,Germany
+744,France
+746,Mexico
+747,Mexico
+749,Canada
+752,Germany
+754,Canada
+757,Mexico
+758,Canada
+760,France
+762,Mexico
+763,Germany
+764,Germany
+766,United States of America
+769,France
+771,United States of America
+772,United States of America
+773,Germany
+775,Germany
+776,Canada
+780,France
+781,Canada
+783,Germany
+784,France
+785,Mexico
+786,Mexico
+787,Canada
+789,Mexico
+791,United States of America
+792,Mexico
+793,France
+796,Canada
+797,France
+799,Mexico
+800,Germany
+802,Mexico
+803,Mexico
+804,Germany
+805,Mexico
+806,United States of America
+807,United States of America
+808,Canada
+809,Germany
+811,Mexico
+812,France
+813,France
+815,United States of America
+816,United States of America
+817,United States of America
+819,Canada
+820,Germany
+823,France
+824,Germany
+825,France
+826,France
+827,Canada
+828,Canada
+829,Germany
+830,Canada
+832,United States of America
+833,France
+834,Germany
+836,Mexico
+837,Mexico
+838,France
+840,Mexico
+842,Germany
+843,Germany
+844,Canada
+845,United States of America
+846,Mexico
+847,United States of America
+848,Mexico
+850,Germany
+851,Canada
+852,Mexico
+854,Germany
+855,Germany
+856,France
+857,United States of America
+859,France
+861,Mexico
+862,Mexico
+864,Canada
+865,United States of America
+867,Germany
+868,United States of America
+869,United States of America
+872,France
+874,Canada
+875,Mexico
+878,France
+879,Mexico
+880,Canada
+881,United States of America
+882,France
+885,Germany
+887,Canada
+888,Canada
+889,France
+893,Mexico
+894,France
+895,Germany
+896,France
+897,Germany
+899,Canada
+900,United States of America
+901,United States of America
+902,United States of America
+903,Germany
+904,United States of America
+905,Germany
+909,United States of America
+910,France
+911,France
+912,Mexico
+913,Germany
+916,France
+918,Mexico
+920,Mexico
+922,Mexico
+923,United States of America
+924,Mexico
+925,United States of America
+926,France
+927,Canada
+930,Germany
+932,United States of America
+933,Mexico
+934,France
+936,Mexico
+939,Canada
+940,Canada
+941,France
+942,Canada
+944,United States of America
+945,United States of America
+947,Mexico
+949,France
+950,Germany
+951,United States of America
+952,Canada
+954,Canada
+956,Germany
+957,Mexico
+958,United States of America
+959,Canada
+960,Canada
+961,United States of America
+964,France
+966,Canada
+967,Germany
+969,United States of America
+970,Germany
+972,Canada
+974,Germany
+975,France
+976,United States of America
+977,France
+981,United States of America
+982,Germany
+983,France
+984,Germany
+985,United States of America
+986,United States of America
+987,United States of America
+990,United States of America
+991,France
+992,Germany
+994,Mexico
+995,Germany
+996,Germany
+997,United States of America
+998,France
+999,Canada
+1001,Mexico
+1002,Mexico
+1003,Germany
+1004,United States of America
+1005,Canada
+1006,Mexico
+1007,Mexico
+1009,Germany
+1010,Germany
+1011,Canada
+1012,Canada
+1013,Germany
+1014,France
+1015,Mexico
+1016,United States of America
+1017,France
+1018,France
+1019,Canada
+1022,Canada
+1024,France
+1025,Germany
+1026,Canada
+1027,United States of America
+1028,United States of America
+1029,Canada
+1030,United States of America
+1032,Germany
+1033,Mexico
+1034,Germany
+1035,Germany
+1036,Mexico
+1037,Mexico
+1038,United States of America
+1039,Canada
+1040,Germany
+1042,Mexico
+1043,Mexico
+1044,Canada
+1045,France
+1046,United States of America
+1047,Canada
+1048,United States of America
+1049,Canada
+1050,Mexico
+1052,Germany
+1053,Canada
+1055,France
+1056,France
+1060,United States of America
+1061,Germany
+1062,Germany
+1066,Mexico
+1068,France
+1069,Mexico
+1070,Mexico
+1071,Mexico
+1073,United States of America
+1074,France
+1076,Canada
+1077,United States of America
+1079,Canada
+1080,Canada
+1081,France
+1082,Mexico
+1083,Germany
+1084,France
+1085,United States of America
+1088,Canada
+1092,United States of America
+1094,France
+1096,Canada
+1097,United States of America
+1098,France
+1099,Mexico
+1100,Mexico
+1101,France
+1102,Mexico
+1103,Canada
+1105,Germany
+1106,France
+1107,Germany
+1108,Mexico
+1109,Germany
+1111,United States of America
+1113,Mexico
+1114,United States of America
+1115,Canada
+1116,United States of America
+1117,France
+1118,Germany
+1119,Mexico
+1120,Mexico
+1121,France
+1124,Canada
+1125,Canada
+1126,Germany
+1127,France
+1128,Canada
+1131,France
+1132,Germany
+1133,Germany
+1135,United States of America
+1136,Canada
+1137,Canada
+1138,Canada
+1140,Germany
+1143,United States of America
+1148,France
+1150,Germany
+1152,France
+1154,United States of America
+1156,Germany
+1157,Mexico
+1158,United States of America
+1160,France
+1161,United States of America
+1162,Canada
+1163,Mexico
+1164,Canada
+1165,United States of America
+1166,United States of America
+1167,Germany
+1171,Mexico
+1172,Canada
+1173,Mexico
+1175,United States of America
+1177,France
+1179,France
+1180,Mexico
+1182,France
+1184,Mexico
+1185,Canada
+1188,Mexico
+1190,Germany
+1191,Canada
+1192,Germany
+1193,Mexico
+1195,United States of America
+1196,United States of America
+1198,France
+1200,France
+1201,Canada
+1202,Germany
+1203,Germany
+1204,France
+1206,Canada
+1207,Mexico
+1210,Mexico
+1211,Canada
+1212,Mexico
+1215,Canada
+1216,France
+1217,United States of America
+1218,Canada
+1219,France
+1220,Germany
+1221,Mexico
+1224,United States of America
+1225,United States of America
+1226,Germany
+1228,Mexico
+1231,France
+1233,Canada
+1234,United States of America
+1235,Germany
+1237,Canada
+1238,Mexico
+1239,France
+1240,Germany
+1241,Germany
+1242,Germany
+1243,Canada
+1244,France
+1245,Germany
+1246,Mexico
+1248,Canada
+1249,Mexico
+1250,Germany
+1251,Canada
+1252,United States of America
+1254,Mexico
+1255,United States of America
+1256,France
+1257,Canada
+1258,United States of America
+1259,United States of America
+1260,United States of America
+1263,United States of America
+1264,Mexico
+1265,Mexico
+1267,Germany
+1268,France
+1269,France
+1270,Germany
+1273,France
+1275,Germany
+1277,Mexico
+1278,Canada
+1279,Germany
+1280,Canada
+1281,Germany
+1282,Mexico
+1283,Germany
+1285,France
+1286,United States of America
+1288,Mexico
+1289,Germany
+1291,Mexico
+1292,Mexico
+1293,Germany
+1294,France
+1295,United States of America
+1296,France
+1297,Mexico
+1298,France
+1299,France
+1301,France
+1303,Germany
+1304,Canada
+1306,United States of America
+1307,France
+1308,Canada
+1309,Germany
+1310,France
+1311,Canada
+1312,Germany
+1314,Canada
+1315,France
+1317,France
+1318,Canada
+1319,France
+1321,Canada
+1322,United States of America
+1324,Germany
+1329,United States of America
+1331,United States of America
+1333,United States of America
+1334,France
+1336,Germany
+1338,Germany
+1340,Mexico
+1344,United States of America
+1346,France
+1349,Mexico
+1350,Canada
+1352,Mexico
+1355,France
+1356,Mexico
+1358,United States of America
+1360,United States of America
+1361,Mexico
+1362,Mexico
+1363,Canada
+1364,France
+1367,United States of America
+1368,Canada
+1369,Germany
+1371,Canada
+1372,Canada
+1373,Mexico
+1374,Canada
+1375,Mexico
+1377,Mexico
+1379,Canada
+1380,Mexico
+1382,Canada
+1383,Germany
+1387,Germany
+1389,Mexico
+1390,France
+1391,Mexico
+1392,Mexico
+1394,United States of America
+1395,Canada
+1396,United States of America
+1397,Canada
+1399,Canada
+1401,Germany
+1402,France
+1403,France
+1405,France
+1407,United States of America
+1408,United States of America
+1409,United States of America
+1411,France
+1412,Mexico
+1415,Germany
+1417,Germany
+1419,United States of America
+1420,France
+1421,Canada
+1422,France
+1423,Germany
+1424,United States of America
+1425,Mexico
+1427,Canada
+1428,Germany
+1430,Mexico
+1431,France
+1433,Canada
+1434,Canada
+1435,Canada
+1436,United States of America
+1438,United States of America
+1439,France
+1440,Mexico
+1441,France
+1443,Canada
+1445,France
+1446,Germany
+1447,Germany
+1448,United States of America
+1449,Canada
+1453,Germany
+1457,France
+1458,Germany
+1459,Mexico
+1460,Mexico
+1461,France
+1464,Canada
+1465,Germany
+1466,Germany
+1467,United States of America
+1468,United States of America
+1469,France
+1471,Canada
+1472,Canada
+1473,United States of America
+1474,United States of America
+1475,Mexico
+1477,United States of America
+1478,Mexico
+1479,Germany
+1480,Canada
+1481,Mexico
+1482,Canada
+1483,France
+1484,United States of America
+1485,France
+1486,Mexico
+1487,United States of America
+1489,United States of America
+1492,United States of America
+1494,France
+1495,Canada
+1496,Canada
+1497,United States of America
+1499,France
+1501,Canada
+1502,United States of America
+1503,France
+1504,Germany
+1506,France
+1507,France
+1509,Canada
+1513,United States of America
+1514,United States of America
+1515,Germany
+1516,United States of America
+1520,France
+1522,France
+1523,Canada
+1525,France
+1527,Germany
+1529,France
+1533,United States of America
+1534,France
+1535,Germany
+1537,Canada
+1539,Mexico
+1541,Germany
+1542,Canada
+1543,Mexico
+1544,Germany
+1545,Germany
+1546,Germany
+1547,Mexico
+1548,United States of America
+1549,Germany
+1550,Germany
+1551,Germany
+1552,Mexico
+1553,Germany
+1554,Mexico
+1555,Mexico
+1556,Mexico
+1557,Mexico
+1558,United States of America
+1560,Canada
+1562,France
+1563,Mexico
+1564,France
+1568,Germany
+1569,United States of America
+1572,United States of America
+1573,Mexico
+1574,Germany
+1576,United States of America
+1577,France
+1578,Mexico
+1580,France
+1581,Germany
+1582,France
+1583,France
+1585,Canada
+1586,Mexico
+1587,Canada
+1588,Canada
+1590,France
+1591,Canada
+1592,Mexico
+1594,France
+1595,Germany
+1596,Canada
+1597,United States of America
+1598,United States of America
+1599,Mexico
+1601,Mexico
+1602,Mexico
+1604,Mexico
+1605,France
+1606,Germany
+1607,Mexico
+1608,Mexico
+1609,Mexico
+1611,Mexico
+1612,Germany
+1613,United States of America
+1614,Germany
+1615,United States of America
+1617,Germany
+1618,Canada
+1619,Canada
+1621,Mexico
+1622,France
+1623,Canada
+1624,Canada
+1625,Germany
+1627,Germany
+1628,Germany
+1630,Canada
+1631,United States of America
+1633,France
+1635,Mexico
+1638,Canada
+1639,Canada
+1640,United States of America
+1641,France
+1642,Canada
+1644,Canada
+1645,United States of America
+1646,France
+1647,Germany
+1648,Canada
+1649,Mexico
+1650,Mexico
+1651,Canada
+1653,United States of America
+1654,Germany
+1655,Germany
+1656,United States of America
+1657,Mexico
+1658,United States of America
+1659,France
+1661,Canada
+1662,Mexico
+1664,France
+1665,Germany
+1666,Germany
+1667,Germany
+1668,United States of America
+1669,Canada
+1670,France
+1671,France
+1673,Mexico
+1674,Canada
+1675,United States of America
+1676,Canada
+1677,United States of America
+1678,Germany
+1680,Germany
+1681,Germany
+1682,Mexico
+1683,France
+1684,Mexico
+1687,Mexico
+1689,Canada
+1691,Canada
+1692,United States of America
+1693,United States of America
+1694,Canada
+1696,France
+1697,Canada
+1698,United States of America
+1700,Mexico
+1701,Germany
+1702,United States of America
+1703,United States of America
+1704,France
+1706,United States of America
+1707,France
+1708,France
+1709,Germany
+1710,Canada
+1712,United States of America
+1714,Germany
+1716,France
+1718,Mexico
+1719,France
+1720,France
+1721,Germany
+1722,Mexico
+1724,Canada
+1725,Canada
+1727,United States of America
+1728,Canada
+1729,France
+1731,Mexico
+1732,Germany
+1733,France
+1734,United States of America
+1735,United States of America
+1736,Germany
+1737,Canada
+1739,United States of America
+1740,Germany
+1744,France
+1745,Mexico
+1746,Mexico
+1747,Canada
+1749,Germany
+1751,Canada
+1752,Mexico
+1753,Canada
+1754,France
+1755,Mexico
+1756,Germany
+1757,Germany
+1758,United States of America
+1760,France
+1761,United States of America
+1762,United States of America
+1763,Germany
+1764,Germany
+1766,Canada
+1767,France
+1768,Canada
+1770,Germany
+1771,France
+1772,Mexico
+1774,Mexico
+1775,Canada
+1778,Mexico
+1779,United States of America
+1780,Mexico
+1782,France
+1783,Canada
+1784,France
+1786,Mexico
+1787,Germany
+1789,Mexico
+1790,Mexico
+1792,Germany
+1794,Mexico
+1797,United States of America
+1798,United States of America
+1799,Canada
+1800,Germany
+1801,Mexico
+1802,France
+1803,France
+1804,United States of America
+1805,United States of America
+1807,United States of America
+1809,Canada
+1812,Germany
+1813,France
+1814,Germany
+1815,France
+1816,France
+1818,Canada
+1821,Canada
+1822,Germany
+1823,Canada
+1824,United States of America
+1826,France
+1827,Germany
+1829,Mexico
+1830,Mexico
+1833,France
+1834,Mexico
+1835,Germany
+1836,Germany
+1837,Canada
+1839,United States of America
+1842,Mexico
+1844,United States of America
+1845,Mexico
+1847,Germany
+1849,Canada
+1850,Mexico
+1852,Germany
+1853,Germany
+1854,France
+1856,United States of America
+1857,France
+1858,Mexico
+1859,Mexico
+1860,Canada
+1862,United States of America
+1863,Germany
+1864,United States of America
+1865,United States of America
+1866,France
+1867,Canada
+1868,Mexico
+1869,France
+1870,Mexico
+1871,Canada
+1873,United States of America
+1875,France
+1876,Germany
+1878,Canada
+1880,Canada
+1881,France
+1882,Mexico
+1883,France
+1885,Germany
+1886,France
+1888,Germany
+1890,Canada
+1892,United States of America
+1893,United States of America
+1898,United States of America
+1900,Germany
+1903,United States of America
+1905,Germany
+1907,United States of America
+1908,France
+1909,France
+1911,Mexico
+1912,Germany
+1915,France
+1916,Mexico
+1918,Mexico
+1922,Mexico
+1924,United States of America
+1927,Mexico
+1928,United States of America
+1929,France
+1931,Canada
+1932,Germany
+1933,United States of America
+1934,Mexico
+1935,France
+1936,Mexico
+1937,Canada
+1938,Canada
+1939,France
+1940,Canada
+1941,United States of America
+1943,United States of America
+1944,Mexico
+1945,France
+1947,Germany
+1948,United States of America
+1949,Canada
+1950,Canada
+1951,Germany
+1952,Mexico
+1954,United States of America
+1955,Canada
+1956,Canada
+1960,United States of America
+1961,France
+1962,Canada
+1965,Germany
+1966,United States of America
+1967,Germany
+1968,Canada
+1969,Germany
+1970,France
+1971,United States of America
+1972,United States of America
+1973,United States of America
+1974,United States of America
+1975,United States of America
+1976,United States of America
+1979,United States of America
+1980,United States of America
+1981,United States of America
+1982,United States of America
+1985,United States of America
+1986,United States of America
+1987,United States of America
+1989,United States of America
+1992,United States of America
+1993,United States of America
+1994,United States of America
+1995,United States of America
+1996,United States of America
+1997,United States of America
+1998,United States of America
+1999,United States of America
+2000,United States of America
+2003,United States of America
+2007,United States of America
+2008,United States of America
+2009,United States of America
+2010,United States of America
+2012,United States of America
+2013,United States of America
+2014,United States of America
+2015,United States of America
+2016,United States of America
+2017,United States of America
+2018,United States of America
+2019,United States of America
+2020,United States of America
+2021,United States of America
+2022,United States of America
+2023,United States of America
+2024,United States of America
+2025,United States of America
+2026,United States of America
+2027,United States of America
+2031,United States of America
+2032,United States of America
+2034,United States of America
+2035,United States of America
+2036,United States of America
+2037,United States of America
+2038,United States of America
+2040,United States of America
+2041,United States of America
+2044,United States of America
+2045,United States of America
+2046,United States of America
+2048,United States of America
+2049,United States of America
+2051,United States of America
+2052,United States of America
+2053,United States of America
+2054,United States of America
+2055,United States of America
+2056,United States of America
+2057,United States of America
+2060,United States of America
+2061,United States of America
+2062,United States of America
+2064,United States of America
+2065,United States of America
+2068,United States of America
